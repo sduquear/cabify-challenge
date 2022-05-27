@@ -1,0 +1,32 @@
+[
+  {
+    "id": "X7R2OPX",
+    "img": "shirt.png",
+    "img_max": "shirt-max.jpg",
+    "name": "Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "code": "TSHIRT",
+    "quantity": 3,
+    "price": 20
+  },
+  {
+    "id": "X2G2OPZ",
+    "img": "mug.png",
+    "img_max": "mug-max.jpg",
+    "name": "Mug",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "code": "MUG",
+    "quantity": 4,
+    "price": 5
+  },
+  {
+    "id": "X3W2OPY",
+    "img": "cap.png",
+    "img_max": "cap-max.jpg",
+    "name": "Cap",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "code": "CAP",
+    "quantity": 4,
+    "price": 10
+  }
+]
